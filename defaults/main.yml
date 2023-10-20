@@ -1,11 +1,11 @@
 ---
 composer_path: /usr/local/bin/composer
 composer_keep_updated: false
-composer_version: ''
-composer_version_branch: '--2'
+composer_version: ""
+composer_version_branch: --2
 
 # The directory where global packages will be installed.
-composer_home_path: '~/.composer'
+composer_home_path: ~/.composer
 composer_home_owner: root
 composer_home_group: root
 
@@ -22,4 +22,4 @@ composer_add_project_to_path: false
 # composer_project_path: /path/to/project/vendor/bin
 
 # GitHub OAuth token (used to help overcome API rate limits).
-composer_github_oauth_token: ''
+composer_github_oauth_token: ""

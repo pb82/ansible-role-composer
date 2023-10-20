@@ -3,4 +3,4 @@
   template:
     src: composer-project.sh.j2
     dest: /etc/profile.d/composer-project.sh
-    mode: 0644
+    mode: "0644"
